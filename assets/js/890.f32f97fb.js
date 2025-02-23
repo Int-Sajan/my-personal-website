@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_personal_website=self.webpackChunkmy_personal_website||[]).push([[890],{890:(e,s,a)=>{a.d(s,{createInfoServices:()=>r.v});var r=a(7021);a(9369)}}]);
